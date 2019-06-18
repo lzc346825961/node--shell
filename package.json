@@ -1,0 +1,19 @@
+{
+  "name": "node-shell",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lzc346825961/node-shell.git"
+  },
+  "author": "zclee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lzc346825961/node-shell/issues"
+  },
+  "homepage": "https://github.com/lzc346825961/node-shell#readme"
+}
